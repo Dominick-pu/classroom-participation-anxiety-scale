@@ -1,0 +1,14 @@
+CLASSROOM PARTICIPATION ANXIETY SCALE — ANALYSIS SUMMARY
+=======================================================
+Completed student questionnaires: 60
+Anxiety items: 18 (three predefined 6-item dimensions)
+Participation frequency items: 5 (analyzed separately)
+Overall Cronbach's alpha: 0.8805
+Pearson correlation (anxiety vs participation): r = -0.6289, p < .001
+KMO: 0.44
+Bartlett: chi-square = 1225.37, df = 153, p < .001
+Three-factor EFA (ML, varimax) variance explained: 60.5%
+
+Interpretation: KMO is low; this 3-factor solution is preliminary.
+These associations are not evidence of causal effects.
+Student-level records and respondent IDs are not exported.
